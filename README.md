@@ -62,10 +62,11 @@ Building State-update Function
 
 
 
-Online Learning Lists
+Similar Resources on Continual Learning
 =================
 
 <!--ts-->
 * [Awesome Incremental Learning](https://github.com/xialeiliu/Awesome-Incremental-Learning)
 * [Continual Learning Papers](https://github.com/optimass/continual_learning_papers)
+* [Awesome Continual Learning](https://github.com/khurramjaved96/awesome-continual-learning)
 <!--te-->
