@@ -1,3 +1,5 @@
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 Table of contents
 =================
 
@@ -12,40 +14,47 @@ Table of contents
 
 Introduction
 =================
-xxx
-
+This repository contains a list of research papers, libraries, thesis focused on solving the challenges that we face during continual learning in supervised, self-supervised, unsupervised, and reinforcement learning settings.
 
 Continual Learning Datasets
 =================
 
 <!--ts-->
-* https://eval.ai/web/challenges/challenge-page/829/overview
-* https://arxiv.org/abs/2002.06306
-* https://arxiv.org/pdf/1811.10732.pdf
-* https://www.cs.utexas.edu/~ring/Ring-dissertation.pdf
+
 <!--te-->
 
 Never-ending Environments
 =================
 
 <!--ts-->
-* https://eval.ai/web/challenges/challenge-page/829/overview
-* https://arxiv.org/abs/2002.06306
-* https://arxiv.org/pdf/1811.10732.pdf
-* https://www.cs.utexas.edu/~ring/Ring-dissertation.pdf
+* [CVPR21 Continual Learning Challenge](https://eval.ai/web/challenges/challenge-page/829/overview)
+* [Jelly Bean World: A Testbed for Never-Ending Learning](https://arxiv.org/abs/2002.06306)
+* [Environments for Lifelong Reinforcement Learning](https://arxiv.org/pdf/1811.10732.pdf)
+* [Continual Learning in Reinforcement Environments](https://www.cs.utexas.edu/~ring/Ring-dissertation.pdf)
+* [Implementation of Continual Learning Algorithms](https://github.com/GMvandeVen/continual-learning)
+* [Online Continual Learning Implementation](https://github.com/RaptorMai/online-continual-learning)
 <!--te-->
 
 Catastrophic Forgetting and Interference
 =================
 
 <!--ts-->
-* https://www.researchgate.net/publication/228051810_Catastrophic_Forgetting_in_Connectionist_Networks
+* [Catastrophic Forgetting in Connectionist Networks] (https://www.researchgate.net/publication/228051810_Catastrophic_Forgetting_in_Connectionist_Networks)
 <!--te-->
 
 Building State-update Function
 =================
 
 <!--ts-->
-* https://www.cs.utexas.edu/~ring/Ring-dissertation.pdf
-* https://papers.nips.cc/paper/2018/file/cee631121c2ec9232f3a2f028ad5c89b-Paper.pdf
+* [Reinforced Continual Learning](https://papers.nips.cc/paper/2018/file/cee631121c2ec9232f3a2f028ad5c89b-Paper.pdf)
+<!--te-->
+
+
+
+Online Learning Lists
+=================
+
+<!--ts-->
+* [Awesome Incremental Learning](https://github.com/xialeiliu/Awesome-Incremental-Learning)
+* [Continual Learning Papers](https://github.com/optimass/continual_learning_papers)
 <!--te-->
