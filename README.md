@@ -1,4 +1,15 @@
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+<div align="center">
+	<div>
+		<img width="500" src="/resources/logos/continual-learning-logo.png" alt="Awesome Node.js" />
+	</div>
+</div>
+
+
+
+Continual Representation Learning [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+=================
+This repository contains a list of research papers, libraries, thesis focused on solving the challenges that we face during continual learning in supervised, self-supervised, unsupervised, and reinforcement learning settings.
 
 Table of contents
 =================
